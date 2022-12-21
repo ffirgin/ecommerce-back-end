@@ -42,7 +42,7 @@ router.get('/:id', (request, response) => {
     .then((productData) => { response.json(productData); })
     .catch((error) => { 
       console.log(error);
-      res.status(500).json(error);
+      response.status(500).json(error);
     })
 });
 
