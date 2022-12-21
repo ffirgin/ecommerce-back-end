@@ -1,5 +1,9 @@
 # ecommerce-back-end
 
+## Recording Link
+
+[Video Walkthrough](https://app.castify.com/view/85257b21-e4fd-403c-84ea-bbf85f726988)
+
 ## Description
 
 This project is used to understand the world of e-commerce by creating a project that uses the latest technologies within object-relational mapping. My motivation was to complete my understanding ORM and other technologies that I have learned.
